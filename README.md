@@ -14,7 +14,7 @@
 - 🤝 **Seeking Help With:** **Plant Recognition Model** (Identifies plants & provides benefits/drawbacks)  
 - 💬 **Ask Me About:** React, Vue.js, GSAP, Android (Java/Kotlin), Generative AI, UI/UX Design  
 - 📫 **Reach Me At:** [sharmaaryan1603@gmail.com](mailto:sharmaaryan1603@gmail.com)  
-- 📄 **My Resume:** [View Resume](https://drive.google.com/file/d/1uA5pbCx0Kx4X3k_fPcl_ZSirK2JeVMR1/view?usp=sharing)  
+- 📄 **My Resume:** [View Resume](https://drive.google.com/file/d/1yUkMH8cYhcsvL3VeYVjA-7iwDxvYp9s_/view?usp=sharing)  
 - ⚡ **Fun Fact:** I think I'm funny, but my console errors laugh at me instead! 😆  
 
 ---
