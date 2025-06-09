@@ -8,13 +8,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On:** [ChatRTC - Real-time Communication](ChatRTC-Real-Time-Communication)  
+- 🔭 **Currently Working On:** [AI Assistant](https://github.com/ARYANSHARMA01-tech/AI-Assistant-)  
 - 🌱 **Currently Learning:** [Next.js](https://nextjs.org/docs), [Tailwind CSS](https://tailwindcss.com/docs), [Three.js](https://threejs.org/docs), [Jetpack Compose](https://developer.android.com/jetpack/compose), [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-guide.html)  
 - 👯 **Looking to Collaborate On:** [Sorting Algorithm Visualizer](Sorting Algorithm Visualizer)  
 - 🤝 **Seeking Help With:** **Plant Recognition Model** (Identifies plants & provides benefits/drawbacks)  
 - 💬 **Ask Me About:** React, Vue.js, GSAP, Android (Java/Kotlin), Generative AI, UI/UX Design  
 - 📫 **Reach Me At:** [sharmaaryan1603@gmail.com](mailto:sharmaaryan1603@gmail.com)  
-- 📄 **My Resume:** [View Resume](https://drive.google.com/file/d/19gS1-TKq-yMXVID5aQSJYIzYNAnCi2OW/view?usp=sharing)  
+- 📄 **My Resume:** [View Resume](https://drive.google.com/file/d/17L1QSpIgd_7aaIenQxspG-Mhy6qsONzH/view?usp=sharing)  
 - ⚡ **Fun Fact:** I think I'm funny, but my console errors laugh at me instead! 😆  
 
 ---
