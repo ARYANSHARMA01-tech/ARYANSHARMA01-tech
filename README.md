@@ -11,12 +11,11 @@
 - 🎓 **Computer Engineering Student** @ Bharti Vidyapeeth (DU), Pune (2022–2026)  
 - 📱 **Android & AI Developer** with experience in Java, Kotlin, Firebase & ML models  
 - 🔐 Focused on secure, scalable mobile apps and real-world ML solutions  
-- 🔭 **Currently Working On:** [AI Assistant](https://github.com/ARYANSHARMA01-tech/AI-Assistant-)  
 - 🌱 **Currently Exploring:** Next.js, Tailwind CSS, Jetpack Compose, LangChain, LLMs  
 - 🤝 **Seeking Collaboration On:** [Plant Recognition Model](#) (Identifies plants & their benefits/drawbacks)  
 - 💬 **Ask Me About:** ML models, Firebase, UI/UX Design, Android (Java/Kotlin), React  
 - 📫 **Reach Me At:** [sharmaaryan1603@gmail.com](mailto:sharmaaryan1603@gmail.com)  
-- 📄 **View My Resume:** [Click Here](https://drive.google.com/file/d/1Vea8P9m1qttC1IQghmSwk1Lbb_N8I_vM/view?usp=sharing)  
+- 📄 **View My Resume:** [Click Here](https://drive.google.com/file/d/1HNQy1n2ud6EiiHJljr4cLwK0inkR3oA0/view?usp=sharing)  
 - ⚡ **Fun Fact:** I think I'm funny, but my console errors disagree 😆  
 
 ---
