@@ -15,7 +15,7 @@
 - 🤝 **Seeking Collaboration On:** [Plant Recognition Model](#) (Identifies plants & their benefits/drawbacks)  
 - 💬 **Ask Me About:** ML models, Firebase, UI/UX Design, Android (Java/Kotlin), React  
 - 📫 **Reach Me At:** [sharmaaryan1603@gmail.com](mailto:sharmaaryan1603@gmail.com)  
-- 📄 **View My Resume:** [Click Here](https://drive.google.com/file/d/1HNQy1n2ud6EiiHJljr4cLwK0inkR3oA0/view?usp=sharing)  
+- 📄 **View My Resume:** [Click Here](https://drive.google.com/file/d/1kkQx7Igj9n9BHhlYX8aNsktpQuZ03kqj/view?usp=drive_link)  
 - ⚡ **Fun Fact:** I think I'm funny, but my console errors disagree 😆  
 
 ---
